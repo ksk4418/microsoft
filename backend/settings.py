@@ -44,7 +44,7 @@ class _UiSettings(BaseSettings):
     title: str = "CGI Advantage"
     logo: Optional[str] = None
     chat_logo: Optional[str] = None
-    chat_title: str = "Start chatting"
+    chat_title: str = "Start asking..."
     chat_description: str = ""
     favicon: str = "/favicon.ico"
     show_share_button: bool = True
